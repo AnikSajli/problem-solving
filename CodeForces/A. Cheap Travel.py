@@ -1,5 +1,5 @@
 import math
-t = input()
+t = '4 4 2 7'
 temp = t.split()
 n = int(temp[0])
 m = int(temp[1])
